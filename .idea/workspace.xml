@@ -244,7 +244,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1705060282120" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1705060555121" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -359,7 +359,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705058995068</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="newsolution">
+      <created>1705060366276</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1705060366276</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -402,9 +409,9 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.28506097" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.28506097" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32879046" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32879046" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32879046" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -456,7 +463,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="movieproject" />
     <MESSAGE value="newproject" />
-    <option name="LAST_COMMIT_MESSAGE" value="newproject" />
+    <MESSAGE value="newsolution" />
+    <option name="LAST_COMMIT_MESSAGE" value="newsolution" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
